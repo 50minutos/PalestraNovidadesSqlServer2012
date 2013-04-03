@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "001-ProgramacaoNovosRecursos", "001-ProgramacaoNovosRecursos\001-ProgramacaoNovosRecursos.ssmssqlproj", "{99DA9932-4D45-497E-BF89-93FEDD9CF93D}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "003-ProgramacaoDadosEspaciais", "003-ProgramacaoDadosEspaciais\003-ProgramacaoDadosEspaciais.ssmssqlproj", "{F252EF2D-133E-4CF6-9853-92B9F152B6B7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "002-ProgramacaoNovasFuncoes", "002-ProgramacaoNovasFuncoes\002-ProgramacaoNovasFuncoes.ssmssqlproj", "{2FDDEB1A-3883-489E-B776-FA3FD5566D1B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "004-ProgramacaoDocumentos", "004-ProgramacaoDocumentos\004-ProgramacaoDocumentos.ssmssqlproj", "{B88697B4-F773-428E-A01C-A1C794867DE1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "005-Ambiente", "005-Ambiente\005-Ambiente.ssmssqlproj", "{9EC5776C-5644-4007-8EB6-F2FAD216C6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DA9932-4D45-497E-BF89-93FEDD9CF93D}.Default|Default.ActiveCfg = Default
+		{F252EF2D-133E-4CF6-9853-92B9F152B6B7}.Default|Default.ActiveCfg = Default
+		{C973864C-BA7E-49C3-91AD-DC3028AA433C}.Default|Default.ActiveCfg = Default
+		{2FDDEB1A-3883-489E-B776-FA3FD5566D1B}.Default|Default.ActiveCfg = Default
+		{B88697B4-F773-428E-A01C-A1C794867DE1}.Default|Default.ActiveCfg = Default
+		{9EC5776C-5644-4007-8EB6-F2FAD216C6FF}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
